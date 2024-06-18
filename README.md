@@ -4,9 +4,9 @@ This is a simple MIDI visualizer that uses an LED keyboard to display the notes 
 
 ## Usage
 
-To use the visualizer, you must first edit the `config.json` file to match the LEDs on your keyboard. To identify which LEDs map to which keys, run `OpenRGB.exe` which you can install [here](https://openrgb.org/). 
+To use the visualizer, you must first edit the `config.json` file to match the LEDs on your keyboard. To identify which LEDs map to which keys, see instructions in the Dependencies section below.
 
-Next, ensure you have a MIDI device connected to your computer. Finally, start the visualizer by running the `main.py` file.
+Next, ensure you have a MIDI device connected to your computer. Now you're ready to start the visualizer by running the `main.py` file.
 
 ## Dependencies
 
