@@ -1,8 +1,6 @@
 from openrgb import OpenRGB
 import mido
 import threading
-import subprocess
-import time
 import json
 
 
